@@ -1,1 +1,41 @@
 # HackerRank-Python
+
+## Introduction
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| DESCRICAO!!!                             | [NOME DA URL](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/DESAFIO/ARQUIVO) | [NOME ARQUIVO](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/DESAFIO/ARQUIVO-SOLUCAO) |
+
+
+## Basic Data Types
+
+## Strings
+
+## Sets
+
+## Math
+
+## Itertools
+
+## Collections
+
+## Date and Time
+
+## Errors and Exceptions
+
+## Classes
+
+## Built-Ins
+
+## Python Functionals
+
+## Regex and Parsing
+
+## XML
+
+## Closures and Decorators
+
+## Numpy
+
+## Debugging
+
+
