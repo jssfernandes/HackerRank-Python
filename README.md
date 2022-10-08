@@ -14,6 +14,15 @@
 
 
 ## Basic Data Types
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| List Comprehensions                      |  |  |
+| Find the Runner-Up Score!                |  |  |
+| Nested Lists                             |  |  |
+| Finding the percentage                   |  |  |
+| Lists                                    |  |  |
+| Tuples                                   |  |  |
+
 
 ## Strings
 
