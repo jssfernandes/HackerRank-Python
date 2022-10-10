@@ -25,6 +25,24 @@
 
 
 ## Strings
+## Basic Data Types
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| sWAP cASE                                |  |  |
+| String Split and Join                    |  |  |
+| What's Your Name?                        |  |  |
+| Mutations                                |  |  |
+| Find a string                            |  |  |
+| String Validators                        |  |  |
+| Text Alignment                           |  |  |
+| Text Wrap                                |  |  |
+| Designer Door Mat                        |  |  |
+| String Formatting                        |  |  |
+| Alphabet Rangoli                         |  |  |
+| Capitalize!                              |  |  |
+| The Minion Game                          |  |  |
+| Merge the Tools!                         |  |  |
+
 
 ## Sets
 
