@@ -62,6 +62,16 @@
 
 
 ## Math
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Polar Coordinates                        |  |  |
+| Find Angle MBC                           |  |  |
+| Triangle Quest                           |  |  |
+| Triangle Quest 2                         |  |  |
+| Mod Divmod                               |  |  |
+| Power - Mod Power                        |  |  |
+| Integers Come In All Sizes               |  |  |
+
 
 ## Itertools
 
