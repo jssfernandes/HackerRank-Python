@@ -25,7 +25,6 @@
 
 
 ## Strings
-## Basic Data Types
 | Desafio                                  | Descrição     | Solução |
 | :-------------                           |:------------- | :------ |
 | sWAP cASE                                |  |  |
@@ -45,6 +44,22 @@
 
 
 ## Sets
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Introduction to Sets                     |  |  |
+| No Idea!                                 |  |  |
+| Symmetric Difference                     |  |  |
+| Set .add()                               |  |  |
+| Set .discard(), .remove() & .pop()       |  |  |
+| Set .union() Operation                   |  |  |
+| Set .intersection() Operation            |  |  |
+| Set .difference() Operation              |  |  |
+| Set .symmetric_difference() Operation    |  |  |
+| Set Mutations                            |  |  |
+| The Captain's Room                       |  |  |
+| Check Subset                             |  |  |
+| Check Strict Superset                    |  |  |
+
 
 ## Math
 
