@@ -86,6 +86,17 @@
 
 
 ## Collections
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| collections.Counter()                    |  |  |
+| DefaultDict Tutorial                     |  |  |
+| Collections.namedtuple()                 |  |  |
+| Collections.OrderedDict()                |  |  |
+| Word Order                               |  |  |
+| Collections.deque()                      |  |  |
+| Company Logo                             |  |  |
+| Piling Up!                               |  |  |
+
 
 ## Date and Time
 
