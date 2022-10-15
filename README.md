@@ -99,6 +99,11 @@
 
 
 ## Date and Time
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Calendar Module                          |  |  |
+| Time Delta                               |  |  |
+
 
 ## Errors and Exceptions
 
