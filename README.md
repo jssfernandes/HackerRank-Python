@@ -106,6 +106,11 @@
 
 
 ## Errors and Exceptions
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Exceptions                               |  |  |
+| Incorrect Regex                          |  |  |
+
 
 ## Classes
 
