@@ -113,6 +113,11 @@
 
 
 ## Classes
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Classes: Dealing with Complex Numbers    |  |  |
+| Class 2 - Find the Torsional Angle       |  |  |
+
 
 ## Built-Ins
 
