@@ -120,6 +120,15 @@
 
 
 ## Built-Ins
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Input()                                  |  |  |
+| Zipped!                                  |  |  |
+| Python Evaluation                        |  |  |
+| Athlete Sort                             |  |  |
+| Any or All                               |  |  |
+| ginortS                                  |  |  |
+
 
 ## Python Functionals
 
