@@ -131,6 +131,12 @@
 
 
 ## Python Functionals
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Map and Lambda Function                  |  |  |
+| Validating Email Addresses With a Filter |  |  |
+| Reduce Function                          |  |  |
+
 
 ## Regex and Parsing
 
