@@ -139,6 +139,26 @@
 
 
 ## Regex and Parsing
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Detect Floating Point Number             |  |  |
+| Re.split()                               |  |  |
+| Group(), Groups() & Groupdict()          |  |  |
+| Re.findall() & Re.finditer()             |  |  |
+| Re.start() & Re.end()                    |  |  |
+| Regex Substitution                       |  |  |
+| Validating Roman Numerals                |  |  |
+| Validating phone numbers                 |  |  |
+| Validating and Parsing Email Addresses   |  |  |
+| Hex Color Code                           |  |  |
+| HTML Parser - Part 1                     |  |  |
+| HTML Parser - Part 2                     |  |  |
+| Detect HTML Tags, Attributes and Attribute Values |  |  |
+| Validating UID                           |  |  |
+| Validating Credit Card Numbers           |  |  |
+| Validating Postal Codes                  |  |  |
+| Matrix Script                            |  |  |
+
 
 ## XML
 
