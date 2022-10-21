@@ -161,6 +161,11 @@
 
 
 ## XML
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| XML 1 - Find the Score                   |  |  |
+| XML2 - Find the Maximum Depth            |  |  |
+
 
 ## Closures and Decorators
 
