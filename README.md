@@ -168,6 +168,11 @@
 
 
 ## Closures and Decorators
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Standardize Mobile Number Using Decorators |  |  |
+| Decorators 2 - Name Directory            |  |  |
+
 
 ## Numpy
 
