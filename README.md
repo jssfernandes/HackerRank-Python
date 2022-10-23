@@ -175,7 +175,6 @@
 
 
 ## Numpy
-## Closures and Decorators
 | Desafio                                  | Descrição     | Solução |
 | :-------------                           |:------------- | :------ |
 | Arrays                                   |  |  |
