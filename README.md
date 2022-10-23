@@ -175,6 +175,25 @@
 
 
 ## Numpy
+## Closures and Decorators
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Arrays                                   |  |  |
+| Shape and Reshape                        |  |  |
+| Transpose and Flatten                    |  |  |
+| Concatenate                              |  |  |
+| Zeros and Ones                           |  |  |
+| Eye and Identity                         |  |  |
+| Array Mathematics                        |  |  |
+| Floor, Ceil and Rint                     |  |  |
+| Sum and Prod                             |  |  |
+| Min and Max                              |  |  |
+| Mean, Var, and Std                       |  |  |
+| Dot and Cross                            |  |  |
+| Inner and Outer                          |  |  |
+| Polynomials                              |  |  |
+| Linear Algebra                           |  |  |
+
 
 ## Debugging
 
