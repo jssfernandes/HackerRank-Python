@@ -195,5 +195,8 @@
 
 
 ## Debugging
-
+| Desafio                                  | Descrição     | Solução |
+| :-------------                           |:------------- | :------ |
+| Words Score                              |  |  |
+| Default Arguments                        |  |  |
 
