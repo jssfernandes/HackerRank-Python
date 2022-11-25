@@ -5,7 +5,7 @@
 | :-------------                           |:------------- | :------ |
 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | [py-hello-world-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/hello-world/py-hello-world-English.pdf) | [hello-world.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/hello-world/hello-world.py) |
 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=false) | [py-if-else-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/if-else/py-if-else-English.pdf) | [if-else.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/if-else/if-else.py) |
-| [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators?isFullScreen=false) | [python-arithmetic-operators-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/if-else/python-arithmetic-operators-English.pdf) | [arithmetic-operators.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/if-else/arithmetic-operators.py) |
+| [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators?isFullScreen=false) | [python-arithmetic-operators-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/arithmetic-operators/python-arithmetic-operators-English.pdf) | [arithmetic-operators.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/arithmetic-operators/arithmetic-operators.py) |
 | Python: Division                         |  |  |
 | Loops                                    |  |  |
 | Write a function                         |  |  |
