@@ -7,7 +7,7 @@
 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=false) | [py-if-else-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/if-else/py-if-else-English.pdf) | [if-else.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/if-else/if-else.py) |
 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators?isFullScreen=false) | [python-arithmetic-operators-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/arithmetic-operators/python-arithmetic-operators-English.pdf) | [arithmetic-operators.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/arithmetic-operators/arithmetic-operators.py) |
 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=false) | [python-division-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/division/python-division-English.pdf) | [division.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/division/division.py) |
-| Loops                                    |  |  |
+| Loops                                    | [python-loops-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/loops/python-loops-English.pdf) | [loops.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/loops/loops.py) |
 | Write a function                         |  |  |
 | Print Function                           |  |  |
 
