@@ -8,7 +8,7 @@
 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators?isFullScreen=false) | [python-arithmetic-operators-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/arithmetic-operators/python-arithmetic-operators-English.pdf) | [arithmetic-operators.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/arithmetic-operators/arithmetic-operators.py) |
 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=false) | [python-division-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/division/python-division-English.pdf) | [division.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/division/division.py) |
 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=false) | [python-loops-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/loops/python-loops-English.pdf) | [loops.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/loops/loops.py) |
-| [Write a function]                         | []() | []() |
+| [Write a function]                         | [write-a-function-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/write-a-function/write-a-function-English.pdf) | [write-a-function.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/write-a-function/write-a-function.py) |
 | Print Function                           |  |  |
 
 
