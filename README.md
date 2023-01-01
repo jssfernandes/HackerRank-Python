@@ -9,7 +9,7 @@
 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=false) | [python-division-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/division/python-division-English.pdf) | [division.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/division/division.py) |
 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=false) | [python-loops-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/loops/python-loops-English.pdf) | [loops.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/loops/loops.py) |
 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=false) | [write-a-function-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/write-a-function/write-a-function-English.pdf) | [write-a-function.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/write-a-function/write-a-function.py) |
-| Print Function                           | [python-print-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/print/python-print-English.pdf) | [print.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/print/print.py) |
+| [Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=false) | [python-print-English.pdf](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/print/python-print-English.pdf) | [print.py](https://github.com/jssfernandes/HackerRank-Python/blob/master/src/print/print.py) |
 
 
 ## Basic Data Types
